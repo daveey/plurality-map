@@ -4,157 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "3bf31688d85689f2",
+        "id": "6dd62155ef738dda",
         "type": "tabs",
         "children": [
           {
-            "id": "abd50409a4653309",
+            "id": "64654a074efb9f1e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Bruce Schneider.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0332f87743b9b508",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Deb Roy.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "287da1bf29211544",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Shrey Jain.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9780daffc905b57e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Together.AI.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0482957b533fa6ce",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Glen Weyl.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "48b60835b424d5a9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Collective Intelligence Project.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f815523ee6b22b19",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Edward Casternova.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e9a2c4140783f73c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Publication Template.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bf58245321935404",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_Maps/People.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5d643ab7721dcec2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Margaret Levi.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b05aa6532a9d7cd5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Rob Reich.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a6a1367e7a01fd2d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Percy Liang.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 11
+        ]
       }
     ],
     "direction": "vertical"
@@ -200,11 +61,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "54fa7de8e9c849c8",
@@ -220,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Percy Liang.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -237,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Percy Liang.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -259,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Percy Liang.md"
-              }
+              "state": {}
             }
           },
           {
@@ -270,7 +128,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           },
@@ -287,7 +147,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -298,38 +159,47 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "publish:Publish changes...": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "a6a1367e7a01fd2d",
+  "active": "64654a074efb9f1e",
   "lastOpenFiles": [
-    "Human-Centered Artificial Intelligence (HAI).md",
-    "Percy Liang.md",
-    "Rob Reich.md",
-    "Margaret Levi.md",
-    "_Maps/People.md",
-    "_Maps/Organizations.md",
-    "Templates/Topic Template.md",
-    "Templates/Person Template.md",
-    "Metaphor.md",
-    "Templates/Publication Template.md",
-    "Virtual Economies.md",
-    "Edward Casternova.md",
-    "Collective Intelligence Project.md",
-    "Untitled.md",
-    "GETTING Plurality.md",
-    "_Maps",
-    "Foresight Institute.md",
-    "Governance.md",
-    "Plurality Institute.md",
-    "Glen Weyl.md",
-    "Templates/University Template.md",
-    "Templates/Org Template.md",
-    "Aviv Ovadya.md",
-    "Braver Angels.md",
-    "Audrey Tang.md",
-    "AI Ethics.md",
-    "Collaborative Civic Tech.md",
-    "Templates"
+    "Cooperation Systems.md",
+    "👥 Organizations & Companies/Plurality Institute.md",
+    "👥 Organizations & Companies/AI And Democracy Foundation.md",
+    "👥 Organizations & Companies/Collective Intelligence Project.md",
+    "🎓 Universities and University Programs/Institute for the Cooperative Digital Economy.md",
+    "💡 Topics/Collective Finance.md",
+    "graph-tag-colors.css",
+    "💡 Topics/Civic Tech & Democracy.md",
+    "💡 Topics/Civic Technology.md",
+    "🎓 Universities and University Programs/Harvard Democracy Renovation Lab.md",
+    "👤 People/Allison Duettmann.md",
+    "👥 Organizations & Companies/Alpha Chain.md",
+    "👥 Organizations & Companies/AI4Impact.md",
+    "👥 Organizations & Companies/Cohere.md",
+    "👥 Organizations & Companies/Citizens Foundation.md",
+    "👥 Organizations & Companies/Circles.md",
+    "👥 Organizations & Companies/Center for Research on Foundation Models (CRFM).md",
+    "👥 Organizations & Companies/Braver Angels.md",
+    "👥 Organizations & Companies/Bluesky.md",
+    "👥 Organizations & Companies/Berkeley RDI.md",
+    "👥 Organizations & Companies/Anthropic.md",
+    "💡 Topics/Web3.md",
+    "💡 Topics/Urban Development.md",
+    "💡 Topics/Plurality.md",
+    "💡 Topics/Equitable Governance.md",
+    "💡 Topics/Constructive Communication.md",
+    "💡 Topics/Contextualization engines.md",
+    "🔨 Tools/Liquid",
+    "myenv/lib/python3.9/site-packages/groq-0.9.0.dist-info/REQUESTED",
+    "myenv/lib/python3.9/site-packages/groq-0.9.0.dist-info/INSTALLER",
+    "myenv/lib/python3.9/site-packages/groq/types/shared_params/__pycache__/function_parameters.cpython-39.pyc",
+    "myenv/lib/python3.9/site-packages/groq/types/shared_params/__pycache__/function_definition.cpython-39.pyc",
+    "myenv/lib/python3.9/site-packages/groq/types/shared_params/__pycache__/__init__.cpython-39.pyc",
+    "myenv/lib/python3.9/site-packages/groq/types/shared_params/__pycache__",
+    "myenv/lib/python3.9/site-packages/groq/types/shared/__pycache__/function_parameters.cpython-39.pyc",
+    "myenv/lib/python3.9/site-packages/groq/types/shared/__pycache__/function_definition.cpython-39.pyc"
   ]
 }
